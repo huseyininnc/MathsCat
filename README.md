@@ -1,5 +1,5 @@
 # MathsCat
-Bu projeyi yaparken pandemi sürecinde internet erişiminde güçlük çeken öğrenciler için ebadaki testlere eğlenceli ve internetsiz bir şekilde ulşabilmelerini hedefledim.
+Bu projeyi yaparken pandemi sürecinde internet erişiminde güçlük çeken öğrenciler için EBA daki testlere eğlenceli ve internetsiz bir şekilde ulşabilmelerini hedefledim.
 
 ## Screenshots
 <img src="./screenshots/ss_01.png" width="300" height="600">        <img src="./screenshots/ss_02.png" width="300" height="600">
